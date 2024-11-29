@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251657997295",
+    "project_id": "medical-healthcare-app",
+    "storage_bucket": "medical-healthcare-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251657997295:android:8b6b5ab6d20e8e4b2c441a",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCME05ol0xjNO_o-WNg4IaJjh03huRGsgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251657997295:android:4d5f9d901a5d850c2c441a",
+        "android_client_info": {
+          "package_name": "com.tangim.medihealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCME05ol0xjNO_o-WNg4IaJjh03huRGsgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
